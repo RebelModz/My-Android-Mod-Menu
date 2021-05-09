@@ -7,3 +7,5 @@ This a modified version of the LGLTeam Android Mod Menu.
   - Icon transparency
   - Icon Size
   - Menu Corners
+# Others
+  - removed hide/kill button

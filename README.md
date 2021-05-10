@@ -8,9 +8,9 @@ This a modified version of the LGLTeam Android Mod Menu.
   - Icon Size
   - Menu Corners
 ## Others
-  - Replaced hide/kill button with home button (only visible when in settings)
-  - Shows dialog box for permissions
-  - Moved check box to right side
+  - Replaced hide/kill button with home button (only visible when in settings).
+  - Shows dialog box for permissions.
+  - Moved check box to right side.
   
 SeekBars Usage:
 ```

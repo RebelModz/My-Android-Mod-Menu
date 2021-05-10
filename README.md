@@ -9,3 +9,4 @@ This a modified version of the LGLTeam Android Mod Menu.
   - Menu Corners
 # Others
   - Replaced hide/kill button with home button (only visible when in settings)
+  - Shows dialog box for permissions

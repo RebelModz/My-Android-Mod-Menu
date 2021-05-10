@@ -1,11 +1,11 @@
 # Android-Mod-Menu
-![mod menu video](https://i.imgur.com/cxQKKM8.mp4)
+![mod menu video](https://j.gifs.com/J8D5mP.gif)
 This a modified version of the LGLTeam Android Mod Menu.
 # What's New ?
-- Added seekBar with decimal/floating value
+- Added SeekBar with decimal/floating value
 - New Settings:
   - Icon transparency
   - Icon Size
   - Menu Corners
 # Others
-  - removed hide/kill button
+  - Replaced hide/kill button with home button (only visible when in settings)

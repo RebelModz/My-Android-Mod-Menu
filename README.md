@@ -20,4 +20,4 @@ SeekBars Usage:
 ## Credits:
 LGLTeam: https://github.com/LGLTeam <br />
 Original Mod Menu: https://github.com/LGLTeam/Android-Mod-Menu <br />
-All the other credits are given in Original Mod Menu.
+All the other credits are given in Original Mod Menu and inside the codes.

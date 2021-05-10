@@ -19,4 +19,5 @@ SeekBars Usage:
 ```
 ## Credits:
 LGLTeam: https://github.com/LGLTeam <br />
-Original Mod Menu: https://github.com/LGLTeam/Android-Mod-Menu
+Original Mod Menu: https://github.com/LGLTeam/Android-Mod-Menu <br />
+All the other credits are given in Original Mod Menu.

@@ -1,6 +1,7 @@
 # Android-Mod-Menu
 ![mod menu video](https://j.gifs.com/J8D5mP.gif)
-This a modified version of the LGLTeam Android Mod Menu.
+This a modified version of the LGLTeam Android Mod Menu.<br />
+Original Mod Menu: https://github.com/LGLTeam/Android-Mod-Menu
 # What's New ?
 - Added SeekBar with decimal/floating value
 - New Settings:
